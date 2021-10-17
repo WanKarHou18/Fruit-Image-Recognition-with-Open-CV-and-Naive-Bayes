@@ -1,0 +1,2 @@
+# Fruit-Image-Recognition-with-Open-CV-and-Naive-Bayes
+This project is focus on developing a fully functional fruit recognition system that aid in identification of fruit at anytime and anywhere. To achieve this target, the system will make use of OpenCV technique together with some other technologies such as webcam to obtain and process the fruit image. Certain attribute values were extracted from image and stored in Excel file, then analysis was performed with ML model- Naïve Bayes.
